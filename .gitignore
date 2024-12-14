@@ -1,0 +1,27 @@
+# Bỏ qua thư mục môi trường ảo Python
+myenv/
+
+# Bỏ qua các tệp tạm thời của hệ điều hành
+*.DS_Store
+Thumbs.db
+
+# Bỏ qua các tệp biên dịch Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Bỏ qua các tệp nhật ký
+*.log
+
+# Bỏ qua các tệp dữ liệu tạm thời hoặc không cần thiết
+*.csv
+*.xlsx
+*.tmp
+
+# Bỏ qua các tệp IDE hoặc editor
+.vscode/
+.idea/
+*.swp
+
+# Bỏ qua tệp cấu hình cá nhân (nếu có)
+.env
