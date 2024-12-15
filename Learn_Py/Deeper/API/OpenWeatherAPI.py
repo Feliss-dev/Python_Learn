@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "369aaf88f290b351f80d1f831c72f779"
+API_KEY = "your_api_key"
 
 # Tọa độ của Hà Nội
 lat = 446.34  # Vĩ độ
